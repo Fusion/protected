@@ -1,3 +1,3 @@
 *.key filter=git-crypt diff=git-crypt
 jupyter/** filter=git-crypt diff=git-crypt
-sequel-ace/** filter=git-crypt diff=git-crypt
+sequel-ace-plist/** filter=git-crypt diff=git-crypt
